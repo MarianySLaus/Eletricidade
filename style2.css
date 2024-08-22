@@ -1,0 +1,22 @@
+body{
+    background-color: brown;
+    color: white;
+}
+nav{
+    text-align: center;
+}
+nav a {
+   color: white;
+   text-decoration: none; 
+   text-align: center;
+}
+div{
+    text-align: center;
+}
+div img{
+    width: 1000px;
+    height: 500px;
+}
+nav a {
+    color: white;
+}
